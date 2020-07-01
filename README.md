@@ -1,2 +1,3 @@
 # algorithms-from-scratch
-Basics algorithms from Khanacademy CS course.
+Algorithms from Khanacademy CS course.
+https://www.khanacademy.org/computing/computer-science/algorithms
